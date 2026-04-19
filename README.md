@@ -1,4 +1,4 @@
-# 🌤️ İmbd puanlarına göre analiz
+# İmbd puanlarına göre analiz
 
 ## Proje Hakkında
 Python kullanarak şehirlerin hava durumu verilerini analiz ettim.
